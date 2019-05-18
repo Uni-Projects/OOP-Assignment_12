@@ -1,3 +1,8 @@
+
+/**
+ * @author Paolo Scattolin s1023775
+ * @author Johan Urban s1024726
+ */
 package streams;
 
 import java.util.*;
